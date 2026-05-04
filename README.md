@@ -16,11 +16,10 @@ A high-performance **Fabric** mod for Minecraft 1.21.11 that optimizes Crystal P
 2. Download the latest release from [Modrinth](LINK_DO_TWOJEGO_MODRINTHA).
 3. Place the `.jar` file and **Fabric API** in your `mods` folder.
 
-# 🔗 My Socials
+# 📢 Join my community!
 
-<a href="TWÓJ_LINK_ZAPROSZENIOWY">
-  <img src="https://switchblade.xyz" alt="Discord Server">
-</a>
+[![Discord](https://shields.io)](TWÓJ_LINK_ZAPROSZENIOWY)
+
 
 
 ## 📜 License
