@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "drgreenuss-crystal-optimizer",
+	"version": "${version}",
+	"name": "DrGreenus's Crystal Optimizer",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"DrGreenus"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/drgreenuss-crystal-optimizer/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.drgreenus.DrGreenussCrystalOptimizer"
+		]
+	},
+	"mixins": [
+		"drgreenuss-crystal-optimizer.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
