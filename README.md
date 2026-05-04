@@ -24,8 +24,9 @@ A high-performance **Fabric** mod for Minecraft 1.21.11 that optimizes Crystal P
 
 
 
-## 📜 License
-This project is licensed under the **MIT License**.
+# DrGreenus Crystal Optimizer
 
-![License](https://shields.io)
-![Minecraft](https://shields.io)
+
+| License | Version |
+| :--- | :--- |
+| ![MIT](https://shields.io) | !(https://shields.io) |
