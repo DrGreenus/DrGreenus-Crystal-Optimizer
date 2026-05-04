@@ -16,10 +16,13 @@ A high-performance **Fabric** mod for Minecraft 1.21.11 that optimizes Crystal P
 2. Download the latest release from [Modrinth](LINK_DO_TWOJEGO_MODRINTHA).
 3. Place the `.jar` file and **Fabric API** in your `mods` folder.
 
-# 📢 Join my community!
+# 📢 Join my Discord!
 
-[![Discord](https://shields.io)](TWÓJ_LINK_ZAPROSZENIOWY)
+<a href="TWÓJ_LINK_ZAPROSZENIOWY">
+<img src="https://githubusercontent.com" width="100" height="100">
+</a>
 
+[CLICK](TWÓJ_LINK_ZAPROSZENIOWY)
 
 
 ## 📜 License
