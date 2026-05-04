@@ -18,11 +18,10 @@ A high-performance **Fabric** mod for Minecraft 1.21.11 that optimizes Crystal P
 
 # 📢 Join my Discord!
 
-<a href="TWÓJ_LINK_ZAPROSZENIOWY">
-<img src="https://githubusercontent.com" width="100" height="100">
-</a>
+# [ 🎮 CLICK (CLICK IT) 🎮 ](TWÓJ_LINK_ZAPROSZENIOWY)
 
-[CLICK](TWÓJ_LINK_ZAPROSZENIOWY)
+---
+
 
 
 ## 📜 License
