@@ -18,7 +18,7 @@ A high-performance **Fabric** mod for Minecraft 1.21.11 that optimizes Crystal P
 
 # 📢 Join my Discord!
 
-# [ 🎮 CLICK (CLICK IT) 🎮 ](TWÓJ_LINK_ZAPROSZENIOWY)
+# [ 🎮 CLICK (CLICK IT) 🎮 ](https://discord.gg/688NcmbhHB)
 
 ---
 
